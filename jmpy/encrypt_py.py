@@ -7,7 +7,8 @@ Created on 2018-07-18 18:24
 @author: Boris
 """
 import os
-import re
+#import re
+import regex as re
 import shutil
 import tempfile
 from distutils.command.build_py import build_py
